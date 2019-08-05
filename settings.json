@@ -101,7 +101,7 @@
         ]
     }
     ],
-    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.view.pdf.viewer": "tab"
       //"latex-preview.command": "xelatex"
 
 }
